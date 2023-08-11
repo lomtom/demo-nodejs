@@ -1,3 +1,5 @@
+### 该项目用于Tekton构建使用，详情请点击https://lomtom.cn
+
 基于webpack编译的vue框架工程，实现简单的页面显示。。
 使用NPM模板进行构建
 使用语言 nodejs
